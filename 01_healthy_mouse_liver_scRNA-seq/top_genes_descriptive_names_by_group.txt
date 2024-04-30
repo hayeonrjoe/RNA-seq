@@ -1,0 +1,102 @@
+Group: 0, Group_Name: Lymphoid Regulators
+Gene: Bcl2a1d, Descriptive_Name: B cell leukemia/lymphoma 2 related protein A1d
+Gene: Syngr2, Descriptive_Name: synaptogyrin 2
+Gene: Traf1, Descriptive_Name: TNF receptor-associated factor 1
+Gene: Bcl2a1b, Descriptive_Name: B cell leukemia/lymphoma 2 related protein A1b
+Gene: Relb, Descriptive_Name: avian reticuloendotheliosis viral (v-rel) oncogene related B
+Group: 1, Group_Name: Monocyte Activation Genes
+Gene: Lyz2, Descriptive_Name: lysozyme 2
+Gene: Prdx5, Descriptive_Name: peroxiredoxin 5
+Gene: Ccr2, Descriptive_Name: C-C motif chemokine receptor 2
+Gene: Gbp2, Descriptive_Name: guanylate binding protein 2
+Gene: Bcl2a1b, Descriptive_Name: B cell leukemia/lymphoma 2 related protein A1b
+Group: 2, Group_Name: Chemokine Signaling Genes
+Gene: Lyz2, Descriptive_Name: lysozyme 2
+Gene: Ifitm3, Descriptive_Name: interferon induced transmembrane protein 3
+Gene: S100a6, Descriptive_Name: S100 calcium binding protein A6 (calcyclin)
+Gene: Lgals3, Descriptive_Name: lectin, galactose binding, soluble 3
+Gene: Ccl9, Descriptive_Name: C-C motif chemokine ligand 9
+Group: 3, Group_Name: Immune Response Modulators
+Gene: Clec4f, Descriptive_Name: C-type lectin domain family 4, member f
+Gene: Cd5l, Descriptive_Name: CD5 antigen-like
+Gene: Slc40a1, Descriptive_Name: solute carrier family 40 (iron-regulated transporter), member 1
+Gene: Apoc1, Descriptive_Name: apolipoprotein C-I
+Gene: Wfdc17, Descriptive_Name: WAP four-disulfide core domain 17
+Group: 4, Group_Name: B Cell Development Regulators
+Gene: Cd79a, Descriptive_Name: CD79A antigen (immunoglobulin-associated alpha)
+Gene: Cd79b, Descriptive_Name: CD79B antigen
+Gene: Ebf1, Descriptive_Name: early B cell factor 1
+Gene: Ms4a1, Descriptive_Name: membrane-spanning 4-domains, subfamily A, member 1
+Gene: H3f3a, Descriptive_Name: H3.3 histone A
+Group: 5, Group_Name: Innate Immune Regulators
+Gene: Siglech, Descriptive_Name: sialic acid binding Ig-like lectin H
+Gene: Bst2, Descriptive_Name: bone marrow stromal cell antigen 2
+Gene: Dnajc7, Descriptive_Name: DnaJ heat shock protein family (Hsp40) member C7
+Gene: Ly6d, Descriptive_Name: lymphocyte antigen 6 family member D
+Gene: Irf8, Descriptive_Name: interferon regulatory factor 8
+Group: 6, Group_Name: Cell Signaling Modulators
+Gene: Igfbp7, Descriptive_Name: insulin-like growth factor binding protein 7
+Gene: Ptprb, Descriptive_Name: protein tyrosine phosphatase receptor type 
+Gene: Ehd3, Descriptive_Name: EH-domain containing 3
+Gene: Aqp1, Descriptive_Name: aquaporin 1
+Gene: Kdr, Descriptive_Name: kinase insert domain protein receptor
+Group: 7, Group_Name: Leukocyte Function Modulators
+Gene: Lair1, Descriptive_Name: leukocyte-associated Ig-like receptor 1
+Gene: Atp1b1, Descriptive_Name: ATPase, Na+/K+ transporting, beta 1 polypeptide
+Gene: H2-Q7, Descriptive_Name: histocompatibility 2, Q region locus 7
+Gene: Ly6d, Descriptive_Name: lymphocyte antigen 6 family member D
+Gene: Agpat4, Descriptive_Name: 1-acylglycerol-3-phosphate O-acyltransferase 4
+Group: 8, Group_Name: Intracellular Regulators
+Gene: Cst3, Descriptive_Name: cystatin C
+Gene: Naaa, Descriptive_Name: N-acylethanolamine acid amidase
+Gene: Ppt1, Descriptive_Name: palmitoyl-protein thioesterase 1
+Gene: Id2, Descriptive_Name: inhibitor of DNA binding 2
+Gene: Cd24a, Descriptive_Name: CD24a antigen
+Group: 9, Group_Name: Ribosomal Protein Components
+Gene: Rpl12, Descriptive_Name: ribosomal protein L12
+Gene: Rpl22l1, Descriptive_Name: ribosomal protein L22 like 1
+Gene: Stmn1, Descriptive_Name: stathmin 1
+Gene: Rps12, Descriptive_Name: ribosomal protein S12
+Gene: Rpl32, Descriptive_Name: ribosomal protein L32
+Group: 10, Group_Name: Immune Cell Surface Markers
+Gene: Cd81, Descriptive_Name: CD81 antigen
+Gene: C1qb, Descriptive_Name: complement component 1, q subcomponent, beta polypeptide
+Gene: H2-Eb1, Descriptive_Name: histocompatibility 2, class II antigen E beta
+Gene: Apoe, Descriptive_Name: 	apolipoprotein E
+Gene: Cd74, Descriptive_Name: CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)
+Group: 11, Group_Name: Transcriptional Regulators
+Gene: Cebpb, Descriptive_Name: CCAAT/enhancer binding protein beta
+Gene: Pglyrp1, Descriptive_Name: peptidoglycan recognition protein 1
+Gene: Gngt2, Descriptive_Name: guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2
+Gene: Fcer1g, Descriptive_Name: Fc receptor, IgE, high affinity I, gamma polypeptide
+Gene: Msrb1, Descriptive_Name: methionine sulfoxide reductase B1
+Group: 12, Group_Name: Major Histocompatibility Complex Components
+Gene: H2-Eb1, Descriptive_Name: histocompatibility 2, class II antigen E beta
+Gene: H2-Aa, Descriptive_Name: histocompatibility 2, class II antigen A, alpha
+Gene: H2-Ab1, Descriptive_Name: histocompatibility 2, class II antigen A, beta 1
+Gene: Cd74, Descriptive_Name: CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)
+Gene: H2-DMb2, Descriptive_Name: histocompatibility 2, class II, locus Mb2
+Group: 13, Group_Name: Cytoskeletal Proteins
+Gene: Vim, Descriptive_Name: vimentin
+Gene: Crip1, Descriptive_Name: cysteine-rich protein 1
+Gene: Cd209a, Descriptive_Name: CD209a antigen
+Gene: S100a10, Descriptive_Name: S100 calcium binding protein A10 (calpactin)
+Gene: Lsp1, Descriptive_Name: lymphocyte specific 1
+Group: 14, Group_Name: Cell Cycle Regulators
+Gene: Tubb5, Descriptive_Name: tubulin, beta 5 class I
+Gene: Stmn1, Descriptive_Name: stathmin 1
+Gene: Hmgb2, Descriptive_Name: high mobility group box 2
+Gene: Ptma, Descriptive_Name: prothymosin alpha
+Gene: Top2a, Descriptive_Name: topoisomerase (DNA) II alpha
+Group: 15, Group_Name: Secretory Pathway Proteins
+Gene: Jchain, Descriptive_Name: immunoglobulin joining chain
+Gene: Mzb1, Descriptive_Name: marginal zone B and B1 cell-specific protein 1
+Gene: Txndc5, Descriptive_Name: thioredoxin domain containing 5
+Gene: Ssr4, Descriptive_Name: signal sequence receptor, delta
+Gene: Hsp90b1, Descriptive_Name: heat shock protein 90, beta (Grp94), member 1
+Group: 16, Group_Name: Additional Ribosomal Protein Components
+Gene: Rpl13a, Descriptive_Name: ribosomal protein L13A
+Gene: Rpsa, Descriptive_Name: ribosomal protein SA
+Gene: Cd3g, Descriptive_Name: CD3 antigen, gamma polypeptide
+Gene: Cd3d, Descriptive_Name: CD3 antigen, delta polypeptide
+Gene: Rplp1, Descriptive_Name: ribosomal protein lateral stalk subunit P1

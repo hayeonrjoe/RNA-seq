@@ -1,0 +1,102 @@
+Group: 0
+Gene: Bcl2a1d, P-value: 3.772713698812141e-23
+Gene: Syngr2, P-value: 5.069011395360737e-23
+Gene: Traf1, P-value: 1.5164185536161292e-20
+Gene: Bcl2a1b, P-value: 3.204741524019841e-20
+Gene: Relb, P-value: 1.4690144199145592e-17
+Group: 1
+Gene: Lyz2, P-value: 3.4292555401239316e-43
+Gene: Prdx5, P-value: 2.474243796376226e-42
+Gene: Ccr2, P-value: 1.8125518822341503e-39
+Gene: Gbp2, P-value: 9.694026945086203e-38
+Gene: Bcl2a1b, P-value: 2.407074813743453e-37
+Group: 2
+Gene: Lyz2, P-value: 6.581005478589921e-99
+Gene: Ifitm3, P-value: 9.032084244550802e-87
+Gene: S100a6, P-value: 1.874894987721957e-79
+Gene: Lgals3, P-value: 6.1379907962507414e-77
+Gene: Ccl9, P-value: 6.484474248365796e-77
+Group: 3
+Gene: Clec4f, P-value: 8.660178287324917e-212
+Gene: Cd5l, P-value: 3.879807319592595e-211
+Gene: Slc40a1, P-value: 1.6672359493828188e-205
+Gene: Apoc1, P-value: 1.9307090729497286e-205
+Gene: Wfdc17, P-value: 7.3221348802743625e-205
+Group: 4
+Gene: Cd79a, P-value: 7.890413313473378e-16
+Gene: Cd79b, P-value: 1.7698005418344455e-15
+Gene: Ebf1, P-value: 1.4501972235858262e-14
+Gene: Ms4a1, P-value: 2.2165575523202951e-13
+Gene: H3f3a, P-value: 7.9400819534886e-11
+Group: 5
+Gene: Siglech, P-value: 5.180251761761354e-255
+Gene: Bst2, P-value: 8.831733061796157e-255
+Gene: Dnajc7, P-value: 1.22844410725685e-244
+Gene: Ly6d, P-value: 3.7241386552720656e-244
+Gene: Irf8, P-value: 2.360838911438432e-240
+Group: 6
+Gene: Igfbp7, P-value: 6.838389964510215e-36
+Gene: Ptprb, P-value: 4.8224563632257935e-34
+Gene: Ehd3, P-value: 2.6675189824568518e-33
+Gene: Aqp1, P-value: 3.552219576812917e-32
+Gene: Kdr, P-value: 5.919669333079278e-32
+Group: 7
+Gene: Lair1, P-value: 1.9427315510104006e-06
+Gene: Atp1b1, P-value: 2.950205231661726e-06
+Gene: H2-Q7, P-value: 7.549656645115578e-06
+Gene: Ly6d, P-value: 7.910468320799303e-06
+Gene: Agpat4, P-value: 2.2587834097441996e-05
+Group: 8
+Gene: Cst3, P-value: 2.617654626294059e-90
+Gene: Naaa, P-value: 1.098478517273742e-81
+Gene: Ppt1, P-value: 1.3909776036663202e-74
+Gene: Id2, P-value: 5.574843541590203e-74
+Gene: Cd24a, P-value: 2.5447016137895076e-62
+Group: 9
+Gene: Rpl12, P-value: 1.899693595992033e-09
+Gene: Rpl22l1, P-value: 4.835997724847748e-09
+Gene: Stmn1, P-value: 7.321016596245235e-09
+Gene: Rps12, P-value: 3.296742575930138e-08
+Gene: Rpl32, P-value: 8.994666631415663e-08
+Group: 10
+Gene: Cd81, P-value: 9.595601668119934e-45
+Gene: C1qb, P-value: 2.2079319078168485e-41
+Gene: H2-Eb1, P-value: 5.716004676106046e-41
+Gene: Apoe, P-value: 5.789305297980733e-41
+Gene: Cd74, P-value: 1.1943585504154685e-38
+Group: 11
+Gene: Cebpb, P-value: 5.74233798795956e-62
+Gene: Pglyrp1, P-value: 9.410008926643511e-62
+Gene: Gngt2, P-value: 8.561670257711855e-61
+Gene: Fcer1g, P-value: 8.322575271876232e-52
+Gene: Msrb1, P-value: 5.028515747027541e-50
+Group: 12
+Gene: H2-Eb1, P-value: 1.429707975803276e-64
+Gene: H2-Aa, P-value: 3.83313128251093e-61
+Gene: H2-Ab1, P-value: 2.3299851135869795e-59
+Gene: Cd74, P-value: 8.565546465064685e-57
+Gene: H2-DMb2, P-value: 3.364718777014171e-52
+Group: 13
+Gene: Vim, P-value: 2.4132650601665974e-39
+Gene: Crip1, P-value: 1.7207929825862743e-37
+Gene: Cd209a, P-value: 6.914693214683593e-33
+Gene: S100a10, P-value: 1.5254882442363186e-27
+Gene: Lsp1, P-value: 3.1813554724143217e-27
+Group: 14
+Gene: Tubb5, P-value: 1.399847770375732e-19
+Gene: Stmn1, P-value: 9.163344722903913e-19
+Gene: Hmgb2, P-value: 1.5415094590018983e-17
+Gene: Ptma, P-value: 1.0034353928698598e-14
+Gene: Top2a, P-value: 1.303545613811153e-14
+Group: 15
+Gene: Jchain, P-value: 4.824251642599415e-10
+Gene: Mzb1, P-value: 5.482687374062244e-10
+Gene: Txndc5, P-value: 5.885563885368937e-10
+Gene: Ssr4, P-value: 6.760706896719204e-10
+Gene: Hsp90b1, P-value: 7.675428287508533e-10
+Group: 16
+Gene: Rpl13a, P-value: 2.8041430219372636e-09
+Gene: Rpsa, P-value: 6.6283132948587065e-09
+Gene: Cd3g, P-value: 7.579752448838133e-09
+Gene: Cd3d, P-value: 8.301252885279427e-09
+Gene: Rplp1, P-value: 9.245624859602463e-09
