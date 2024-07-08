@@ -1,0 +1,11 @@
+version: '3'
+services:
+  jupyter-notebook:
+    image: jupyter-notebook-env
+    ports:
+      - "8888:8888"
+    env_file:
+      - .env
+    volumes:
+      - ${NOTEBOOK_DIR}:/workspace
+      - ${SSH_DIR}:/root/.ssh
