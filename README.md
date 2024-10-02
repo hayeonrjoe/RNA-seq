@@ -1,5 +1,5 @@
 <h1>🧬 RNA-seq</h1>
-Record of my RNA sequencing analyses<br/><br/>
+RNA sequencing analysis practice<br/><br/>
 
 <h2>🧫 RNA-seq Experiments</h2>
 <ol>
